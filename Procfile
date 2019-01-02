@@ -1,1 +1,1 @@
-web: gunicorn PyFlaskTutorial.wsgi --log-file -
+web: gunicorn run:app --log-file -
