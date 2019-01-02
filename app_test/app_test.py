@@ -1,4 +1,4 @@
-# Put templates Content to Template DIrector to Run Testapp
+# Put Templates Content to Template DIrector to Run Testapp
 # app_test.py , Otgerwise jinja templte will not work
 
 from flask import Flask, render_template
